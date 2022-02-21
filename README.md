@@ -1,1 +1,2 @@
-git pull
+My first readme
+Added from github
